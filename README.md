@@ -1,3 +1,3 @@
 # CO2-Emission
-CO2 Emission per Country from Year 2000 to 2011
+CO2 Emission per Country from Year 2000 to 2011.
 This is a visualization project on Tableau for module 6 of Google Data Analytics Professional course, Share Data Through the art of visualization. It shows the CO2 emissions per capita for each country from seven regions, East Asia & Pacific, Europe & Central Asia, Latin American & Carribean, Middle East & North Africa, North America, South Asia and Sub Sahara Africa from 2000-2011. This visual provide a presentation that not only allows someone to visually compare CO2 emissions between countries from year to year, but also provides information about each county’s population, GDP, and energy use. 
