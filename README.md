@@ -19,6 +19,7 @@ Summary
 The analysis shows that Twirl, Crunchie, Dairy Milk, and Double Decker from Cadbury is the top 4 in that order, while Kitkat from Nestle is the 5th. The least ranked are Picnic, Mars, Boost, Bounty and Galaxy. The age group 18-24 love Crunchie; followed by Twirl, 35-44 love Kitkat; followed by Twirl, while 65+ love Dairy Milk; followed by Twirl. The least ranked is Mars.
 
 
+![image](https://user-images.githubusercontent.com/110028869/218813963-6a09363b-a1e8-48da-8afa-d242cae12fe5.png)
 
 
 
