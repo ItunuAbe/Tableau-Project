@@ -2,7 +2,7 @@
 
 
 ## About
-This repository contains the analysis and visualizations I have created in Tableau, analzing UK's Top Favorite Chpcolate Bar
+This repository contains the analysis and visualizations I have created in Tableau, analyzing UK's Top Favorite Chpcolate Bar
 
 The Easter Bunny is coming, so let's have a great debate! What is the UK's favorite chocolate?
 
