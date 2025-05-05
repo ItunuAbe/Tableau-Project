@@ -26,9 +26,7 @@ https://data.world/makeovermonday/what-is-the-uks-favorite-chocolate-bar/workspa
 
 ## Insights
 
-To determine the most popular chocolate bar brand within each specified age group, I analyzed the average rank achieved by each brand within that group, where a higher average rank indicates higher popularity.
-
-Based on my analysis of the dataset:
+### To determine the most popular chocolate bar brand within each specified age group, I analyzed the average rank achieved by each brand within that group, where a higher average rank indicates higher popularity.Based on my analysis of the dataset:
 
 ✅ For the 18-24 years age group, Crunchie has the highest average rank making it the most popular brand among this demographic.
 
@@ -37,7 +35,7 @@ Based on my analysis of the dataset:
 ✅ Among the elderly aged 65+, Dairy Milk achieves the highest average rank, suggesting it is the most popular choice for this age group.
 
 
-Based on the analysis of the dataset, the top 5 most frequently ranked chocolate bar brands overall are:
+### Based on the analysis of the dataset, the top 5 most frequently ranked chocolate bar brands overall are:
 
 ✅ Twirl (Cadbury) with 28% of total rank along across dataset
 
