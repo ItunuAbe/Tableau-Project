@@ -1,7 +1,7 @@
 # UK Top Favorite Chocolate bar Analysis
 
 
-## About
+## 🌐About
 Chocolate and candy bars comprise a significant portion of the snack industry and based on brand awareness data from Dataworld, I take a look at the top 10 brands in this category in the UK:
 The Easter Bunny is coming, so let's have a great debate! What is the UK's favorite chocolate?
 
