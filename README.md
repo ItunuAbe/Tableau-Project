@@ -16,7 +16,10 @@ https://data.world/makeovermonday/what-is-the-uks-favorite-chocolate-bar/workspa
 3. How do the top 5 brands perform within each individual age group? Are they consistently popular? 
 4. Which chocolate bar brand(s) consistently appear at the lowest rank(s) in the dataset?
 
-## 📈Analysis Tableau Dashboard
+## 📈 Tableau Dashboard Link
+
+https://public.tableau.com/app/profile/abe.itunu/viz/UKTopFavoriteChocolateBar/Dashboard2
+
 
 ![image](https://user-images.githubusercontent.com/110028869/218813963-6a09363b-a1e8-48da-8afa-d242cae12fe5.png)
 
@@ -64,27 +67,8 @@ It's notable that four out of the top five most frequently ranked brands are fro
 
 ✅ Double Decker shows high preference among the 18-24 and 35-44 age groups. However, it's not among the top 10 for the 65+ group, indicating lower preference among the elderly.
 
+#### Boost and Picnic are the chocolate bar brands that most consistently appear at the lowest ranks in your dataset, each accounting for 25% of the occurrences of the least preferred rankings.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The analysis shows that Twirl, Crunchie, Dairy Milk, and Double Decker from Cadbury are the top 4 in that order, while KitKat from Nestle is the 5th. The least ranked are Picnic, Mars, Boost, Bounty and Galaxy. The age group 18-24 love Crunchie; followed by Twirl, 35-44 love Kitkat; followed by Twirl, while 65+ love Dairy Milk; followed by Twirl. The least ranked is Mars.
-
-
-You can view the final version of the Vizz on my tableau page 
-
-https://public.tableau.com/app/profile/abe.itunu/viz/UKTopFavoriteChocolateBar/Dashboard2
  
