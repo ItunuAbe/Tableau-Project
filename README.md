@@ -27,18 +27,21 @@ https://data.world/makeovermonday/what-is-the-uks-favorite-chocolate-bar/workspa
 ## Insights
 
 To determine the most popular chocolate bar brand within each specified age group, I analyzed the average rank achieved by each brand within that group, where a higher average rank indicates higher popularity.
+
 Based on my analysis of the dataset:
-For the 18-24 years age group, Crunchie has the highest average rank making it the most popular brand among this demographic.
-Within the 35-44 years age group, Kitkat shows the highest average rank indicating it is the most popular among adults in this age range.
-Among the elderly aged 65+, Dairy Milk achieves the highest average rank, suggesting it is the most popular choice for this age group.
+
+✅ For the 18-24 years age group, Crunchie has the highest average rank making it the most popular brand among this demographic.
+✅ Within the 35-44 years age group, Kitkat shows the highest average rank indicating it is the most popular among adults in this age range.
+✅ Among the elderly aged 65+, Dairy Milk achieves the highest average rank, suggesting it is the most popular choice for this age group.
 
 
 Based on the analysis of the dataset, the top 5 most frequently ranked chocolate bar brands overall are:
-Twirl (Cadbury) with 28% of total rank along across dataset
-KitKat (Nestle)with 23% of total rank along across dataset
-Dairy Milk (Cadbury) with 18% of total rank along across dataset
-Crunchie (Cadbury) with 16% of total rank along across dataset
-Double Decker (Cadbury) with 15% of total rank along across dataset
+✅ Twirl (Cadbury) with 28% of total rank along across dataset
+✅ KitKat (Nestle)with 23% of total rank along across dataset
+✅ Dairy Milk (Cadbury) with 18% of total rank along across dataset
+✅ Crunchie (Cadbury) with 16% of total rank along across dataset
+✅ Double Decker (Cadbury) with 15% of total rank along across dataset
+
 It's notable that four out of the top five most frequently ranked brands are from Cadbury, suggesting a strong representation of this manufacturer within the dataset. KitKat from Nestle also features prominently in the top 5.
 
 
